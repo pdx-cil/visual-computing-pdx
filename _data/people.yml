@@ -1,161 +1,163 @@
-
 prof-a:
-    display_name: "Prof A"
+    display_name: "Prof. Wu-chi Feng"
+    webpage: "https://web.cecs.pdx.edu/~wuchi/" 
+    image: /img/people/wuchi.jpg
     role: faculty
-
-prof-b:
-    display_name: "Prof B"
-    role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
-
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
     bio: Professor
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
+prof-b:
+    display_name: "Prof. Feng Liu"
+    webpage: "https://web.cecs.pdx.edu/~fliu/" 
+    image: /img/people/fliu.jpg
+    role: faculty
+    bio: Professor
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
+prof-c:
+    display_name: "Prof. Atul Ingle"
+    webpage: "https://computational.camera/"
+    image: /img/people/ingle2.png
+    role: faculty
+    bio: Assistant Professor
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
+prof-d:
+    display_name: "Prof. Banafsheh Rekabdar"
+    webpage: "https://sites.google.com/site/banafsheh1rekabdar/"
+    image: /img/people/banafsheh.jpg
+    role: faculty
+    bio: Assistant Professor
+
+# scott:
+#     display_name: "Scott Summers"
+#     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+#     role: staff
+#     image: /img/people/scott.png
+#     bio: aka Cyclops
+# 
+# wolverine:
+#     display_name: "Wolverine"
+#     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+#     github: wolverine
+#     role: postdoc
 
 grad-a:
-    display_name: "Grad A"
+    display_name: "Kaustubh Sadekar"
+    webpage: "https://kaustubh-sadekar.github.io/"
     role: grad
+    bio: PhD student
+    image: /img/people/kaustubh.png
+
 
 grad-b:
-    display_name: "Graduate Student B With Long Name"
+    display_name: "Sasidharan Mahalingam"
     role: grad
+    bio: PhD student
+    image: /img/people/storm.png
 
 grad-c:
-    display_name: "Grad C"
+    display_name: "Hayden Galante"
     role: grad
+    bio: PhD student
+    image: /img/people/storm.png
 
 grad-d:
-    display_name: "Grad D"
+    display_name: "Jeremy Vonderfecht"
     role: grad
+    bio: PhD student
+    image: /img/people/storm.png
 
-grad-e:
-    display_name: "Grad E"
-    role: grad
 
-grad-f:
-    display_name: "Grad F"
-    role: grad
 
-grad-g:
-    display_name: "Grad G"
-    role: grad
 
-grad-h:
-    display_name: "Grad H"
-    role: grad
 
-grad-i:
-    display_name: "Grad I"
-    role: grad
 
 alum-a:
-    display_name: "Alum A"
+    display_name: "Sameerah Talafha (PhD)"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
 
 alum-b:
-    display_name: "Alum B With Way Longer Name"
+    display_name: "Emilia Zeledon Lostalo (MS)"
     role: alum
 
 alum-c:
-    display_name: "Alum C"
+    display_name: "Paul Coen (MS)"
     role: alum
-    webpage: "https://www.google.com"
 
 alum-d:
-    display_name: "Alum D"
+    display_name: "Mahdi Moradi (MS)"
     role: alum
 
 alum-e:
-    display_name: "Alum E"
+    display_name: "Charith Atapattu (MS)"
     role: alum
 
 alum-f:
-    display_name: "Alum F"
+    display_name: "Cameron Niccum (MS)"
     role: alum
 
 alum-g:
-    display_name: "Alum G"
+    display_name: "Dmitrii Pianov (MS)"
     role: alum
 
 alum-h:
-    display_name: "Alum H"
+    display_name: "Mahesh Ravi (MS)"
     role: alum
 
 alum-i:
-    display_name: "Alum I"
+    display_name: "Daphne Kurzenhauser (MS)"
     role: alum
+    bio: Now at Transformative Optics LLC (Portland, OR)
 
 collab-a:
-    display_name: "Collaborator A"
+    display_name: "Prof. David Maier"
     role: collab
+    bio: Maseeh Professor (PDX-CS)
 
 collab-b:
-    display_name: "Collaborator B With Long Name"
+    display_name: "Prof. David Burnett"
     role: collab
+    bio: Assistant Professor (PDX-ECE)
 
 collab-c:
-    display_name: "Collaborator C"
+    display_name: "Prof. Erik Sanchez"
     role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
+    bio: Professor (PDX-Physics)
+## 
+# collab-c:
+#     display_name: "Collaborator C"
+#     role: collab
+# 
+# collab-d:
+#     display_name: "Collaborator D"
+#     role: collab
+# 
+# collab-e:
+#     display_name: "Collaborator E"
+#     role: collab
+# 
+# ugrad-a:
+#     display_name: "Ugrad A"
+#     role: ugrad
+# 
+# ugrad-b:
+#     display_name: "Ugrad Student B With Long Name"
+#     role: ugrad
+# 
+# ugrad-c:
+#     display_name: "Ugrad C"
+#     role: ugrad
+# 
+# ugrad-d:
+#     display_name: "Ugrad D"
+#     role: ugrad
+# 
+# ugrad-e:
+#     display_name: "Ugrad E"
+#     role: ugrad
+# 
+# ugrad-alum-a:
+#     display_name: "Past Ugrad A"
+#     role: ugrad-alum
+# 
+# ugrad-alum-b:
+#     display_name: "Past Ugrad Student B With Long Name"
+#     role: ugrad-alum
